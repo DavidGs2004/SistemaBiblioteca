@@ -1,4 +1,4 @@
-                                                                                                   Login System - README
+                                                                                        Login System - README
 
 Descripción
 
@@ -15,3 +15,8 @@ Mensajes de error claros.
 Tecnologías utilizadas
 
 Base de datos: MySQL, MongoDB, Firebase, etc. (opcional).
+
+Uso
+1. Ingresa tu usuario y contraseña.
+2. Haz clic en Iniciar sesión.
+3. Si las credenciales son correctas, serás redirigido al dashboard.
