@@ -1,4 +1,5 @@
 Login System - README
+
 Descripción
 Este proyecto incluye un sistema de autenticación básico (login) que permite a los usuarios acceder a una aplicación mediante credenciales válidas.
 Características
