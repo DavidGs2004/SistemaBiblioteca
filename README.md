@@ -6,11 +6,13 @@ Este proyecto incluye un sistema de autenticación básico (login) que permite a
 Características
 Validación de usuario y contraseña.
 
+
 Interfaz sencilla y responsive.
 
 Conexión con base de datos (opcional, dependiendo de la implementación).
 
 Mensajes de error claros.
+
 
 Tecnologías utilizadas
 
